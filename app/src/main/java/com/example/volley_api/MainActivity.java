@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnCarregar;
     ImageView imgServidor;
 
-    String server_url = "'http://192.168.0.14/projetovolleyapi/tecnologia.jpeg";
+    String server_url = "http://192.168.0.14/projetovolleyapi/tecnologia.jpeg";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
